@@ -73,10 +73,12 @@ body{
 
 .form_warning{
     font-size: 1rem;
+    visibility: hidden;
     color: var(--waring-color);
 }
 
 .form__input--text{
+
     border: 2px solid var(--text-color);
 }
 
